@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/ajit/.android/build-cache/c250db5c69406b35f95e128705c6435725729cbe/output/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /home/ajit/.android/build-cache/54fc00c90f7a089043b65f66f592242f910740f1/output/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ajit/.android/build-cache/c0a9df5a5238b0dd912e6980ee889e68452b8835/output/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:17:22-65
+application
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:19:5-40:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/ajit/.android/build-cache/c250db5c69406b35f95e128705c6435725729cbe/output/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /home/ajit/.android/build-cache/54fc00c90f7a089043b65f66f592242f910740f1/output/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ajit/.android/build-cache/c0a9df5a5238b0dd912e6980ee889e68452b8835/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:21:9-45
+	android:theme
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:23:9-40
+activity#info.androidhive.camerafileupload.MainActivity
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:24:9-33:20
+	android:screenOrientation
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:31:27-74
+activity#info.androidhive.camerafileupload.UploadActivity
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:35:13-43
+activity#info.androidhive.camerafileupload.Doc
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:37:9-41
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:37:19-38
+activity#info.androidhive.camerafileupload.Gallery
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:38:9-45
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:38:19-42
+activity#info.androidhive.camerafileupload.MulitpleImages
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:39:9-61
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:39:19-49

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/ajit/Music/CameraPhotoVideoUpload/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/ajit/.android/build-cache/c250db5c69406b35f95e128705c6435725729cbe/output/res/values-port/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    }
+]
