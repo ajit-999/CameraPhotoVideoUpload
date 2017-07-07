@@ -34,9 +34,12 @@
         <activity
             android:name=".UploadActivity"
             android:screenOrientation="portrait" />
-        <activity android:name=".Doc" />
-        <activity android:name=".Gallery" />
+        <activity android:name=".Doc"/>
+        <activity android:name=".Gallery"/>
         <activity android:name=".MulitpleImages"></activity>
+        <activity android:name=".MultiPhotoSelectActivity"/>
+
+
     </application>
 
 </manifest>

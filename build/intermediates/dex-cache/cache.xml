@@ -3,39 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/home/ajit/.android/build-cache/54fc00c90f7a089043b65f66f592242f910740f1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/home/ajit/Music/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/classes_b0533c4f89d21df4b35c9abdcc27f0595e689025.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ajit/.android/build-cache/c250db5c69406b35f95e128705c6435725729cbe/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/home/ajit/Music/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/classes_702586ff07851c133c24e010000a0834603a39f9.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/ajit/Music/CameraPhotoVideoUpload/app/libs/httpclient-4.3.6.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
         <dex dex="/home/ajit/Music/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_38ec6a5b1d1c38802165e23e822462ba4a7ef291.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ajit/.android/build-cache/54fc00c90f7a089043b65f66f592242f910740f1/output/jars/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/home/ajit/Music/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_6350a882f71107ed5f0a57debc048efdeb54f81f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -54,15 +27,6 @@
         revision="25.0.2"
         sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
         <dex dex="/home/ajit/Music/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/httpcore-4.3.3_884d845e970717b1abdb2d26f84101986525157f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ajit/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/home/ajit/Music/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_26ea8f5e3685d9abbdd6c1b923a734f837cd6357.jar" />
     </item>
 
 </items>

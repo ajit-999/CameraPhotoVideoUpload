@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:2:1-45:12
 	package
 		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:3:5-48
 		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
@@ -17,9 +17,21 @@ ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.
 		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:21.0.3] /home/ajit/.android/build-cache/c250db5c69406b35f95e128705c6435725729cbe/output/AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.3] /home/ajit/.android/build-cache/54fc00c90f7a089043b65f66f592242f910740f1/output/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:design:25.3.1] /home/ajit/.android/build-cache/cdf49ae9076af04f2e3c1699abbd5970c5e2f47d/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ajit/.android/build-cache/200d8ff92156d55e47158a7d68fc206e60d60151/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ajit/.android/build-cache/7648249befa6d840eddb9688777e05ca23a75fc5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ajit/.android/build-cache/16fb36343ea55a23fb74e33aabcec22bc7f6d352/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ajit/.android/build-cache/58a269c13a2b4160c5faf04b0fdc1afcaf4c593d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/ajit/.android/build-cache/1d8ff90af4b710213c1e2dccf6da3df29d2f2bd9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/ajit/.android/build-cache/387a881bc17b82c52109e0e81ddfceb532e56f47/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ajit/.android/build-cache/834dfe59af2a2cf3d032f668e2a3b1bd8b335fdb/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ajit/.android/build-cache/cfe6af80e362ff2bdba3c47e631261a6871b0433/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ajit/.android/build-cache/adf444be0221615b9e8f33e576ecfd319efd901e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ajit/.android/build-cache/d53edbc1bd79260c89122247304c4a459d6c2a53/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/ajit/.android/build-cache/c35b7c7e89cf32f2521b2e7db2ffa8f147e2c09e/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ajit/.android/build-cache/c0a9df5a5238b0dd912e6980ee889e68452b8835/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/ajit/.android/build-cache/cdf49ae9076af04f2e3c1699abbd5970c5e2f47d/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:9:9-38
 		INJECTED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml
@@ -57,9 +69,18 @@ ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.
 	android:name
 		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:17:22-65
 application
-ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:19:5-40:19
-MERGED from [com.android.support:appcompat-v7:21.0.3] /home/ajit/.android/build-cache/c250db5c69406b35f95e128705c6435725729cbe/output/AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.3] /home/ajit/.android/build-cache/54fc00c90f7a089043b65f66f592242f910740f1/output/AndroidManifest.xml:16:5-19
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:19:5-43:19
+MERGED from [com.android.support:design:25.3.1] /home/ajit/.android/build-cache/cdf49ae9076af04f2e3c1699abbd5970c5e2f47d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ajit/.android/build-cache/200d8ff92156d55e47158a7d68fc206e60d60151/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ajit/.android/build-cache/7648249befa6d840eddb9688777e05ca23a75fc5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ajit/.android/build-cache/16fb36343ea55a23fb74e33aabcec22bc7f6d352/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/ajit/.android/build-cache/1d8ff90af4b710213c1e2dccf6da3df29d2f2bd9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/ajit/.android/build-cache/387a881bc17b82c52109e0e81ddfceb532e56f47/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ajit/.android/build-cache/834dfe59af2a2cf3d032f668e2a3b1bd8b335fdb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ajit/.android/build-cache/cfe6af80e362ff2bdba3c47e631261a6871b0433/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ajit/.android/build-cache/adf444be0221615b9e8f33e576ecfd319efd901e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ajit/.android/build-cache/d53edbc1bd79260c89122247304c4a459d6c2a53/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/ajit/.android/build-cache/c35b7c7e89cf32f2521b2e7db2ffa8f147e2c09e/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ajit/.android/build-cache/c0a9df5a5238b0dd912e6980ee889e68452b8835/output/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:22:9-41
@@ -94,14 +115,35 @@ ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.
 	android:name
 		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:35:13-43
 activity#info.androidhive.camerafileupload.Doc
-ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:37:9-41
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:37:9-40
 	android:name
 		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:37:19-38
 activity#info.androidhive.camerafileupload.Gallery
-ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:38:9-45
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:38:9-44
 	android:name
 		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:38:19-42
 activity#info.androidhive.camerafileupload.MulitpleImages
 ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:39:9-61
 	android:name
 		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:39:19-49
+activity#info.androidhive.camerafileupload.MultiPhotoSelectActivity
+ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:40:9-61
+	android:name
+		ADDED from /home/ajit/Music/CameraPhotoVideoUpload/app/src/main/AndroidManifest.xml:40:19-59
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/ajit/.android/build-cache/cdf49ae9076af04f2e3c1699abbd5970c5e2f47d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ajit/.android/build-cache/200d8ff92156d55e47158a7d68fc206e60d60151/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ajit/.android/build-cache/7648249befa6d840eddb9688777e05ca23a75fc5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ajit/.android/build-cache/16fb36343ea55a23fb74e33aabcec22bc7f6d352/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ajit/.android/build-cache/58a269c13a2b4160c5faf04b0fdc1afcaf4c593d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/ajit/.android/build-cache/1d8ff90af4b710213c1e2dccf6da3df29d2f2bd9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/ajit/.android/build-cache/387a881bc17b82c52109e0e81ddfceb532e56f47/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ajit/.android/build-cache/834dfe59af2a2cf3d032f668e2a3b1bd8b335fdb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ajit/.android/build-cache/cfe6af80e362ff2bdba3c47e631261a6871b0433/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ajit/.android/build-cache/adf444be0221615b9e8f33e576ecfd319efd901e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ajit/.android/build-cache/d53edbc1bd79260c89122247304c4a459d6c2a53/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/ajit/.android/build-cache/c35b7c7e89cf32f2521b2e7db2ffa8f147e2c09e/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/ajit/.android/build-cache/cdf49ae9076af04f2e3c1699abbd5970c5e2f47d/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/ajit/.android/build-cache/cdf49ae9076af04f2e3c1699abbd5970c5e2f47d/output/AndroidManifest.xml:26:9-47

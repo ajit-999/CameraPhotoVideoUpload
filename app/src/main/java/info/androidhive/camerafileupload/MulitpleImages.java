@@ -95,6 +95,7 @@ public class MulitpleImages extends ActionBarActivity {
     }
     // PICK_PHOTO_CODE is a constant integer
     public final static int PICK_PHOTO_CODE = 1046;
+    public final static int PICK_IMAGE_MULTIPLE = 1;
 
     // Trigger gallery selection for a photo
     public void onPickPhoto(View view) {

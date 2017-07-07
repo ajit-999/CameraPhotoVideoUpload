@@ -5,8 +5,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="11"
-        android:targetSdkVersion="21" />
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -15,6 +15,10 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
 
     <application
         android:allowBackup="true"
@@ -37,6 +41,7 @@
         <activity android:name="info.androidhive.camerafileupload.Doc" />
         <activity android:name="info.androidhive.camerafileupload.Gallery" />
         <activity android:name="info.androidhive.camerafileupload.MulitpleImages" />
+        <activity android:name="info.androidhive.camerafileupload.MultiPhotoSelectActivity" />
     </application>
 
 </manifest>

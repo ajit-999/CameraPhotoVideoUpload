@@ -144,6 +144,10 @@
         "source": "/home/ajit/.android/build-cache/c250db5c69406b35f95e128705c6435725729cbe/output/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "/home/ajit/Music/CameraPhotoVideoUpload/app/build/intermediates/res/merged/debug/drawable-hdpi/attach_icon.png",
+        "source": "/home/ajit/Music/CameraPhotoVideoUpload/app/src/main/res/drawable-hdpi/attach_icon.png"
+    },
+    {
         "merged": "/home/ajit/Music/CameraPhotoVideoUpload/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ab_share_pack_holo_light.9.png",
         "source": "/home/ajit/.android/build-cache/c250db5c69406b35f95e128705c6435725729cbe/output/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
     },
